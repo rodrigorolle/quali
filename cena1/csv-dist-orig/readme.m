@@ -1,3 +1,3 @@
 # Non-empty folder
 
-Distance range: 5-9m
+Distance range: 3-10m
